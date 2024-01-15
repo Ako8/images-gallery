@@ -17,7 +17,7 @@ function Search({word, setWord, handleSubmit}) {
                                     placeholder="Search for new image..." />
                             </Col>
                             <Col>
-                                <Button variant="primary" type="submit">Submit</Button>
+                                <Button variant="primary" type="submit">Search</Button>
                             </Col>
                         </Form.Row>
                     </Form>
